@@ -16,7 +16,7 @@ module.exports = {
       },
       backgroundImage: (theme) => ({
         "gradient-yellowered": "linear-gradient(90deg, #ff616a 0%, #FFC837 100%)",
-        "mobile-name" : "url('./assets/HomePageGraphic.png')"
+        "mobile-name" : "url('./assets/training.png')"
       }), 
       fontFamily: {
         dmsans: ["DM Sana", "sans-serif"],
